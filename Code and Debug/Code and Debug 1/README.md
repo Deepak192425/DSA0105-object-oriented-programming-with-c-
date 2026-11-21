@@ -1,7 +1,7 @@
 # Code and Debug 1
 
-**Name:** S.SACHIN  
-**Register Number:** 192525045  
+**Name:** E.Deepak
+**Register Number:** 192425197  
 **Subject:** Object Oriented Programming with C++
 
 ## Section A – Debugging Programs
