@@ -1,5 +1,7 @@
 # Code and Debug 4 – Unit IV
 ## Inheritance and Pointers
+**Name:E.Deepak
+Rg.No:192425197**
 
 ### Section A – Debugging Programs
 
